@@ -16,7 +16,7 @@ Before running this project, ensure you have the following:
 Clone the repository:
 ```bash
 git clone https://github.com/codemaker2015/virtual-try-on.git
-cd virtual-try-on-gradio-client
+cd virtual-try-on
 ```
 Install the required Python packages:
 ```
